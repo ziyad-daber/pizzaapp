@@ -17,16 +17,14 @@ Le code source est organisé en plusieurs packages pour suivre les principes de 
 ## Fonctionnalités Clés
 
 -   **Écran de Démarrage**: Un écran d'accueil s'affiche au lancement de l'application pour une meilleure expérience utilisateur.
+-   <img width="318" height="565" alt="image" src="https://github.com/user-attachments/assets/a2c31c75-efbe-4f67-9c37-8f6cde01d72b" />
+
 -   **Affichage en Liste**: Les recettes sont présentées dans une `ListView` personnalisée, affichant une image, un titre et des méta-informations pour chaque pizza.
+-   <img width="310" height="584" alt="image" src="https://github.com/user-attachments/assets/72d89b81-e66d-4cb2-af0a-5955d56f4681" />
+
 -   **Vue Détaillée**: Un clic sur une pizza mène à un écran de détail affichant les ingrédients, la description complète et les étapes de préparation.
--   **Action de Partage**: Une option dans la barre de menu permet de partager l'application via d'autres applications.
+-   <img width="332" height="610" alt="image" src="https://github.com/user-attachments/assets/fd3b735a-b53c-40dc-8bb6-e82bd58365e4" />
 
-## Démarche de Refactoring
 
-Afin de garantir l'originalité du code et d'en améliorer la qualité, une refactorisation complète a été effectuée. L'ensemble des noms de variables, de méthodes et de certains paramètres ont été renommés pour être plus explicites et pour suivre les conventions de nommage standard de la communauté Java/Android.
 
-## Comment Lancer le Projet
 
-1.  Ouvrez le projet avec Android Studio.
-2.  Lancez une synchronisation Gradle si nécessaire.
-3.  Exécutez l'application sur un émulateur ou un appareil Android connecté.
